@@ -1,4 +1,4 @@
-fastapi==0.80.0
+fastapi==0.109.1
 pydantic==1.9.2
 pyflakes==2.5.0
 python-dotenv==0.20.0
